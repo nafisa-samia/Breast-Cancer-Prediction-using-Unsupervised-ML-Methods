@@ -13,7 +13,7 @@ It has 30 features shared across all classes: radius, texture, perimeter, area, 
 
 
 Below tasks are covered in the project:
---------------------------
+---------------------------------------
 * Apply various unsupervised techniques and compare what works best for the data
 * Apply pca, kmeans as a preprocessing
 * Determine the optimal number of clusters and plot the cluster of faces
